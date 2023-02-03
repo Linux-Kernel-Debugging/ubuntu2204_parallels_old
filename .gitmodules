@@ -1,0 +1,3 @@
+[submodule "ubuntu2204_parallels"]
+	path = ubuntu2204_parallels
+	url = git@github.com:Linux-Kernel-Debugging/ubuntu2204_parallels.git
